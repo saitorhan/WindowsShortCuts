@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All Windows Shortcuts</string>
+
+    <string name="rate_app">Rate Application</string>
+    <string name="share">Share This App</string>
+    <string name="dbVersion">1</string>
+    <string name="dbName">allwindowsshortcuts</string>
+    <string name="not_found">Shortcut not found</string>
+
+</resources>
